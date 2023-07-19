@@ -1,4 +1,28 @@
 # JNUC2023
 JNUC 2023 Austin, Texas
 
-Welcome to my repository!
+Integrations used at the University of Leicester
+
+Autopkg & AutoPKGr
+IBM Notifier
+MacOSLAPS
+EraseInstall
+Installomator
+NoMAD
+Nudge
+Support App
+DEPNotify
+
+- Recommended resources
+
+Jamf Nation - https://community.jamf.com
+Mac Enterprise mailing list - http://www.macenterprise.org/mailing-lis
+MacAdmins IRC channel (was the go-to place before Slack existed), now Slack and channels for everything - https://www.macadmins.org/
+Blogs - 802.1 - Sachin Parmar’s Blog - https://sachinparmarblog.com/, Der Flounder - https://derflounder.wordpress.com/, MacMule - https://macmule.com/
+EduGeek forums - http://www.edugeek.net/forums/mac/
+Apple Platform Deployment Guide - https://support.apple.com/en-gb/guide/deployment/dep2c1b2a43a/web
+Administering FileVault 2 - https://resources.jamf.com/documents/white-papers/Administering-FileVault-2-on-OS-X-Mountain-Lion-with-the-Casper-Suite.pdf
+Reddit Mac SysAdmin - https://www.reddit.com/r/macsysadmin/
+FileVault White Paper - https://resources.jamf.com/documents/technical-papers/Administering-FileVault-on-macOS-10.14-or-Later-with-Jamf-Pro-10.7.1-or-Later.pdf
+Administering-FileVault-on-macOS-10.14-or-Later-with-Jamf-Pro-10.7.1-or-Later.pdf
+
