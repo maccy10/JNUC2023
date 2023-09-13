@@ -13,7 +13,7 @@ Nudge
 Support App
 DEPNotify
 
-- Recommended resources
+Recommended resources
 
 Jamf Nation - https://community.jamf.com
 Mac Enterprise mailing list - http://www.macenterprise.org/mailing-lis
@@ -25,4 +25,7 @@ Administering FileVault 2 - https://resources.jamf.com/documents/white-papers/Ad
 Reddit Mac SysAdmin - https://www.reddit.com/r/macsysadmin/
 FileVault White Paper - https://resources.jamf.com/documents/technical-papers/Administering-FileVault-on-macOS-10.14-or-Later-with-Jamf-Pro-10.7.1-or-Later.pdf
 Administering-FileVault-on-macOS-10.14-or-Later-with-Jamf-Pro-10.7.1-or-Later.pdf
-
+https://learn.jamf.com/bundle/technical-articles/page/Installing_a_Jamf_Pro_Web_Application_in_the_DMZ.html#:~:text=Installing%20a%20Jamf%20Pro%20web%20application%20in%20the%20DMZ%20allows,application%20to%20the%20existing%20database.
+https://macmule.com/2011/09/08/how-to-map-drives-printers-based-on-ad-group-membership-on-osx/
+https://macadminsdoc.readthedocs.io/en/master/About/Resources.html
+https://www.macadmins.org/about-the-mac-admins-foundation
