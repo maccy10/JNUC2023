@@ -1,7 +1,7 @@
 # JNUC2023
 JNUC 2023 Austin, Texas
 
-Integrations used at the University of Leicester
+# Integrations used at the University of Leicester
 
 Autopkg & AutoPKGr
 IBM Notifier
@@ -13,9 +13,10 @@ Nudge
 Support App
 DEPNotify
 
-Recommended resources
+# Recommended Resources
 
-Jamf Nation - https://community.jamf.com
+Jamf Nation - https://community.jamf.com 
+[MIT](https://choosealicense.com/licenses/mit/)
 Mac Enterprise mailing list - http://www.macenterprise.org/mailing-lis
 MacAdmins IRC channel (was the go-to place before Slack existed), now Slack and channels for everything - https://www.macadmins.org/
 Blogs - 802.1 - Sachin Parmar’s Blog - https://sachinparmarblog.com/, Der Flounder - https://derflounder.wordpress.com/, MacMule - https://macmule.com/
@@ -29,3 +30,9 @@ https://learn.jamf.com/bundle/technical-articles/page/Installing_a_Jamf_Pro_Web_
 https://macmule.com/2011/09/08/how-to-map-drives-printers-based-on-ad-group-membership-on-osx/
 https://macadminsdoc.readthedocs.io/en/master/About/Resources.html
 https://www.macadmins.org/about-the-mac-admins-foundation
+
+# Reach Out
+
+Mark Mahabir on the MacAdmins Slack, or LinkedIn
+
+https://www.linkedin.com/in/markmahabir/
